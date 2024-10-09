@@ -1,15 +1,14 @@
-# Hi, I’m @harisdev768 👋
+# Hello World, 👋
 
 I am a WordPress Developer with a keen interest in Data Science and Artificial Intelligence. My work primarily revolves around building custom WordPress themes, plugins, and optimizing web performance. I also enjoy exploring how AI and Data Science can solve real-world problems.
 
-## Skills and Interests:
-- WordPress Development (Themes, Plugins, WooCommerce)
-- HTML, CSS, JavaScript, PHP , MySQL
-- C++
-- Python
-- Webflow
-- Wix Custom Automations
-- Data Science
-- Artificial Intelligence
+Technologies:
+Javascript, C & C++, Python, PHP, jQuery
 
-Feel free to explore my repositories and projects. Let's connect and collaborate!
+Also interested in:
+Machine Learning, Web Scraping , Wordpress, Webflow
+
+Want to collaborate, learn, or just chat? Feel free to reach out to me.
+
+Cheers,
+Haris Rehman
