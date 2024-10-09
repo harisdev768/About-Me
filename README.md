@@ -12,6 +12,6 @@ Machine Learning, Web Scraping , Wordpress, Webflow
 
 Want to collaborate, learn, or just chat? Feel free to reach out to me.
 
-**Cheers,
+**Cheers,**
 
-Haris Rehman**
+**Haris Rehman**
